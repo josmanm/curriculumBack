@@ -1,0 +1,44 @@
+{
+    "technologies": [
+        {
+            "name": "HTML",
+            "logo": "https://cdn.svgporn.com/logos/html-5.svg",
+            "description": "HTML is the standard markup language for Web pages. With HTML you can create your own Website."
+        },
+        {
+            "name": "JavaScript",
+            "logo": "https://cdn.svgporn.com/logos/javascript.svg",
+            "description": "JavaScript is the programming language of HTML and the Web. JavaScript is easy to learn."
+        },
+        {
+            "name": "React",
+            "logo": "https://cdn.svgporn.com/logos/react.svg",
+            "description": "React is a JavaScript library for building user interfaces."
+        },
+        {
+            "name": "Python",
+            "logo": "https://cdn.svgporn.com/logos/python.svg",
+            "description": "Python is a programming language that lets you work quickly and integrate systems more effectively."
+        },
+        {
+            "name": "Sass",
+            "logo": "https://cdn.svgporn.com/logos/sass.svg",
+            "description": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
+        },
+        {
+            "name": "CSS",
+            "logo": "https://cdn.svgporn.com/logos/css-3.svg",
+            "description": "CSS is the language we use to style an HTML document."
+        },
+        {
+            "name": "Git",
+            "logo": "https://cdn.svgporn.com/logos/git-icon.svg",
+            "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+        },
+        {
+            "name": "Redux",
+            "logo": "https://cdn.svgporn.com/logos/redux.svg",
+            "description": "Redux is a predictable state container for JavaScript apps."
+        }
+    ]
+}
