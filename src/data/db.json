@@ -48,5 +48,31 @@
             "logo": "https://cdn.svgporn.com/logos/redux.svg",
             "description": "Redux is a predictable state container for JavaScript apps."
         }
-    ]
+    ],
+    "studies":[
+        {
+            "id":1,
+            "name":"Universidad del Cauca",
+            "logo":"https://www.unicauca.edu.co/versionP/images/logo-unicauca.png",
+            "description":"Ingeniería de Sistemas",
+            "date":"2017 - 2024",
+            "status":"En curso",
+            "type":"Profesional",
+            "city":"Popayán",
+            "country":"Colombia",
+            "link":"https://www.unicauca.edu.co/"
+        },
+        {
+            "id":2,
+            "name":"Makaia",
+            "logo":"https://www.makaia.org/wp-content/uploads/2019/03/logo-makaia-1.png",
+            "description":"Desarrollo de Software frontend con React",
+            "date":"2023 - 2024",
+            "status":"Terminado",
+            "type":"Diplomado",
+            "city":"Medellin",
+            "country":"Colombia",
+            "link":"https://www.makaia.org/"
+        }
+    ] 
 }
