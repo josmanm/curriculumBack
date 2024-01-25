@@ -53,7 +53,7 @@
         {
             "id":1,
             "name":"Universidad del Cauca",
-            "logo":"https://www.unicauca.edu.co/versionP/images/logo-unicauca.png",
+            "logo":"https://www.unicauca.edu.co/versionP/sites/default/files/images/Escudo_Universidad_cauca.png",
             "description":"Ingeniería de Sistemas",
             "date":"2017 - 2024",
             "status":"En curso",
@@ -65,7 +65,7 @@
         {
             "id":2,
             "name":"Makaia",
-            "logo":"https://www.makaia.org/wp-content/uploads/2019/03/logo-makaia-1.png",
+            "logo":"https://www.globalgiving.org/pfil/organ/11089/orglogo.png",
             "description":"Desarrollo de Software frontend con React",
             "date":"2023 - 2024",
             "status":"Terminado",
