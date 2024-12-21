@@ -76,5 +76,39 @@
             "link":"https://www.makaia.org/",
             "tags":["HTML","JavaScript","Python","CSS","Git"]
         }
+    ],
+    "experiences":[
+        {
+            "id" : 1,
+            "name" : "INDRA",
+            "logo" : "https://brandemia.org/sites/default/files/inline/images/indra_logo-antes.jpg", 
+            "date" : "2017 - 2024",
+            "status": "En curso",
+            "type": "Profesional",
+            "city": "Popayán",
+            "country": "Colombia"
+        },
+        {
+            "id" : 2,
+            "name" : "Makaia",
+            "logo" : "https://www.globalgiving.org/pfil/organ/11089/orglogo.png", 
+            "date" : "2023 - 2024",
+            "status": "Terminado",
+            "type": "Diplomado",
+            "city": "Medellin",
+            "country": "Colombia"
+        },
+        {
+            "id" : 3,
+            "name" : "Universidad del Cauca",
+            "logo" : "https://www.unicauca.edu.co/versionP/sites/default/files/images/Escudo_Universidad_cauca.png", 
+            "date" : "2017 - 2024",
+            "status": "En curso",
+            "type": "Profesional",
+            "city": "Popayán",
+            "country": "Colombia"
+        }
+          
+
     ]
 }
